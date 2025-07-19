@@ -9,6 +9,11 @@ A **fluent DSL-based list builder** for Jetpack Compose, inspired by the `Modifi
 <img width="280" height="856" alt="Image" src="https://github.com/user-attachments/assets/06b23569-1e57-4c16-bde1-54390795c5be" />
 
 ---
+## 📱 Testing APK
+
+https://ioair.link/wyqmjp
+
+<img width="248" height="248" alt="Image" src="https://github.com/user-attachments/assets/f6553793-e556-40fc-b8ef-938548a7b36c" />
 
 ## 🧩 Features
 
