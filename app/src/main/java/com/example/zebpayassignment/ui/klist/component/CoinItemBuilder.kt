@@ -1,4 +1,4 @@
-package com.example.zebpayassignment.ui.klist.compinent
+package com.example.zebpayassignment.ui.klist.component
 
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier

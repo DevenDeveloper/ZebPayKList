@@ -1,4 +1,4 @@
-package com.example.zebpayassignment.ui.klist.compinent
+package com.example.zebpayassignment.ui.klist.component
 
 import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.fillMaxSize

@@ -15,9 +15,9 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.unit.dp
 import com.example.zebpayassignment.models.Coin
-import com.example.zebpayassignment.ui.klist.compinent.CoinCardItem
-import com.example.zebpayassignment.ui.klist.compinent.KList
-import com.example.zebpayassignment.ui.klist.compinent.KListItem
+import com.example.zebpayassignment.ui.klist.component.CoinCardItem
+import com.example.zebpayassignment.ui.klist.component.KList
+import com.example.zebpayassignment.ui.klist.component.KListItem
 import com.example.zebpayassignment.ui.theme.ZebPayAssignmentTheme
 
 class KListDemo : ComponentActivity() {
